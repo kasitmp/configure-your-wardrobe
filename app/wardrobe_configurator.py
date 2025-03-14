@@ -4,5 +4,5 @@ class Wall:
 
 
 class WardrobeElement:
-    def __init__(self):
-        self.width = 50
+    def __init__(self, width):
+        self.width = width
